@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390914648281",
+    "project_id": "nima-aecae",
+    "storage_bucket": "nima-aecae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390914648281:android:20af009267481e902536c8",
+        "android_client_info": {
+          "package_name": "com.example.nima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390914648281-00sjs7bbgmtt8p7ts1n61umv0qfta6nr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nima",
+            "certificate_hash": "01e39568b596bc4fec30a43a78401c09b9ed164d"
+          }
+        },
+        {
+          "client_id": "390914648281-j222n6o40p1s0ub99rgqkbb6cm9npol9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCJ05LZ-EgSjji1_tpI-B2nlDbI32MGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390914648281-j222n6o40p1s0ub99rgqkbb6cm9npol9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
